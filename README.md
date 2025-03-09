@@ -1,28 +1,46 @@
-<h1>Digital Clock</h1>
+# Digital Clock
 
-<h2>Description</h2>
-Project is a Digital Clock.
-<br />
+## Overview
+This is a simple **Digital Clock** application built using Java **Swing**. The clock displays the current time in **hours, minutes, and seconds**, and updates dynamically. It features a user-friendly interface with a modern look.
 
-<h2>Languages and Utilities Used</h2>
+## Features
+✔ **Real-time Clock Update** – Automatically refreshes every second.  
+✔ **Simple UI** – Minimalistic digital clock display.  
+✔ **Lightweight Application** – Uses only Java Swing, no external dependencies.  
+✔ **Resizable Window** – Adjust the size of the clock display.  
 
-- <b>Java</b> 
+## Installation & Usage
+### Prerequisites
+- Java Development Kit (JDK) 8 or later
+- Any Java IDE (Eclipse, IntelliJ, NetBeans) or command line (terminal)
 
-<h2>Environments Used </h2>
+### Running the Application
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/DimiG031/DigitalClock.git
+   cd DigitalClock
+   ```
+2. **Compile and Run**:
+   - Using terminal:
+     ```sh
+     javac DigitalClock.java
+     java DigitalClock
+     ```
+   - Using an IDE:
+     - Open the project in an IDE (e.g., IntelliJ IDEA or Eclipse).
+     - Run the `DigitalClock` class.
 
-- <b>Windows 10</b>
+## Screenshots
+![Digital Clock](images/digital_clock_screenshot.png)
 
-<h2>Program:</h2>
+## Future Improvements
+- **Customizable themes** (light/dark mode).
+- **Adjustable time format (12h / 24h).**
+- **Alarm functionality.**
 
-<p align="center">
-Code:
-<br/>
-<img src="https://i.imgur.com/J0dhavH.png" height="80%" width="80%" alt="Digital Clock code"/>
-<img src="https://i.imgur.com/eWvQ7xv.png" height="80%" width="80%" alt="Digital Clock code"/>
-<img src="https://i.imgur.com/rAhcy4K.png" height="80%" width="80%" alt="Digital Clock code"/>
-<img src="https://i.imgur.com/iAuO7XT.png" height="80%" width="80%" alt="Digital Clock code"/>
-  <br/>
-Digital Clock:
-  <br/>
-<img src="https://i.imgur.com/ArGbWZB.png" height="80%" width="80%" alt="Digital Clock"/>
+## License
+This project is open-source under the [MIT License](LICENSE).
+
+---
+📩 Feel free to contribute, suggest features, or report issues!
 
