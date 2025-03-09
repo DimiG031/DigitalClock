@@ -38,6 +38,8 @@ This is a simple **Digital Clock** application built using Java **Swing**. The c
 - **Adjustable time format (12h / 24h).**
 - **Alarm functionality.**
 
+✨ **Author:** [Goran Dimitrijević Dimi](https://github.com/GoranDimitrijevicDimi)
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
